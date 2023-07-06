@@ -36,5 +36,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Learn about more IBM's products.
 
 Watson Assistant: click [here](https://www.ibm.com/products/watson-assistant).
+<br>
+<br>
 Watson Discovery: click [here](https://www.ibm.com/products/watson-discovery).
+<br>
+<br>
 NeuralSeek: click [here](https://cloud.ibm.com/catalog/services/neuralseek).
