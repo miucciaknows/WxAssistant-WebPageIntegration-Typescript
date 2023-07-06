@@ -20,8 +20,6 @@ In these examples below, I'm Asking Watson Assistant about Vyvanse and then got 
 
 ![Imagem 3 - Keeping asking Watson Assistant about Vyvanse ](./Images/03.png)
 
-### Results below:
-
 ## Getting Started
 
 Get the project and then install all dependences:
@@ -33,6 +31,7 @@ Run the development server:
 `yarn dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 ## Learn about more IBM's products.
 
