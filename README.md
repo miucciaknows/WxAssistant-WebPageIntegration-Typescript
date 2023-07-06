@@ -12,11 +12,11 @@ I made this **Assistant** for answer questions in **medicine's leaflet**. I use 
 
 The integration of **Watson Discovery** and **NeuralSeek** is in **Watson Assistant**, so it's simple to integrate with your web page and this was an example of that. The **Watson Assistant** provides the script to integrate to your code.
 
-![Imagem 1 - Page]("./Images/01.png")
+![Imagem 1 - Page](./Images/01.png)
 
-![Imagem 2 - Asking Watson Assistant about Vyvanse (i provide the leaflet for it, to answer me based on it.)]("./Images/02.png")
+![Imagem 2 - Asking Watson Assistant about Vyvanse (i provide the leaflet for it, to answer me based on it.)](./Images/02.png)
 
-![Imagem 3 - Keeping asking Watson Assistant about Vyvanse ]("./Images/03.png")
+![Imagem 3 - Keeping asking Watson Assistant about Vyvanse ](./Images/03.png)
 
 ### Results below:
 
