@@ -6,7 +6,7 @@ I made this **Assistant** to provide answers about some medicines. I use **Watso
 
 **Watson Assistant:** To build a virtual agent, powered by AI
 
-**Watson Discovery**:\*\* To search and answer questions about business documents using custom NLP and Large Language Models from IBM Research.
+**Watson Discovery**: To search and answer questions about business documents using custom NLP and Large Language Models from IBM Research.
 
 **NeuralSeek:** Connects existing knowledge database (in my case was Discovery) and instantly generates natural-language answers to real customer questions.
 
