@@ -10,17 +10,17 @@ The integration of **Watson Discovery** and **NeuralSeek** is in **Watson Assist
 
 Click on the icon on the left side menu as the imagem below:
 
-![Imagem 1](./Images/01.png)
+![Imagem 1](./Images/01.jpg)
 
 Now click on Open on the Web chat section
 
-![Imagem 2](./Images/02.png)
+![Imagem 2](./Images/02.jpg)
 
 Navegate to the `Embed` section, on this page you should have all the code to integrate your Watsonx Assistant on your page.
 
 The code is ready to copy and paste into your application. 
 
-![Imagem 3](./Images/03.png)
+![Imagem 3](./Images/03.jpg)
 
 On this example i've use Typescript so i had to do some changes to it, i did this integration on the file that is located in: `medicine-assistant/src/app/Components/WatsonAssistantChat.tsx` 
 
