@@ -14,13 +14,13 @@ Click on the icon on the left side menu as the imagem below:
 
 Now click on Open on the Web chat section
 
-![Imagem 2](./Images/02.jpg)
+![Imagem 2](./Images/02.png)
 
 Navegate to the `Embed` section, on this page you should have all the code to integrate your Watsonx Assistant on your page.
 
 The code is ready to copy and paste into your application. 
 
-![Imagem 3](./Images/03.jpg)
+![Imagem 3](./Images/03.png)
 
 On this example i've use Typescript so i had to do some changes to it, i did this integration on the file that is located in: `medicine-assistant/src/app/Components/WatsonAssistantChat.tsx` 
 
